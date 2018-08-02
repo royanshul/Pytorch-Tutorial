@@ -38,7 +38,7 @@ This repository provides tutorial code for deep learning researchers to learn [P
 
 ## Getting Started
 ```bash
-$ git clone https://github.com/yunjey/pytorch-tutorial.git
+$ git clone https://github.com/royanshul/pytorch-tutorial.git
 $ cd pytorch-tutorial/tutorials/project_path
 $ python main.py               # cpu version
 $ python main-gpu.py           # gpu version
@@ -55,5 +55,3 @@ $ python main-gpu.py           # gpu version
 <br/>
 
 
-## Author
-Yunjey Choi/ [@yunjey](https://github.com/yunjey)
